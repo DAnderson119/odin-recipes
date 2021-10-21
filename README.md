@@ -1,2 +1,2 @@
 Project Recipes
-first attempot at a webpage
+first attempt at a webpage
